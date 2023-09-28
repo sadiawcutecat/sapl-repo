@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "title": "ICD",
+        "img": "/public/Icons/accounts 1.png"
+        
+    },
+    {
+        "id": "2",
+        "title": "CFS",
+        "img": "/public/Icons/accounts 1.png"
+       
+    },
+    {
+        "id": "3",
+        "title": "IMPORT",
+        "img": "/public/Icons/accounts 1.png"
+       
+    },
+    {
+        "id": "4",
+        "title": "VALUE ADDED SERVICE",
+        "img": "/public/Icons/business 1.png"
+    
+    },
+    {
+        "id": "5",
+        "title": "REPAIR (MNR)",
+        "img": "/public/Icons/accounts 1.png"
+        
+    },
+    {
+        "id": "6",
+        "title": "TRANSPORTATION",
+        "img": "/public/Icons/business 1.png"
+       
+    },
+    {
+        "id": "7",
+        "title": "LEASING",
+        "img": "/public/Icons/accounts 1.png"
+       
+    },
+    {
+        "id": "8",
+        "title": "TRUCK PARKING",
+        "img": "/public/Icons/business 1.png"
+    
+    }
+]
